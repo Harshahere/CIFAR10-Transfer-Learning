@@ -1,0 +1,5 @@
+{
+    "baseline_cnn_test_accuracy": 0.7296,
+    "mobilenetv2_feature_extraction_test_accuracy": 0.8584,
+    "mobilenetv2_finetuned_test_accuracy": 0.8811
+}
